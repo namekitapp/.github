@@ -20,5 +20,5 @@ Premium users get access to all results without random filtering, maximizing you
 
 ## 🔗 Links
 
-- [Namekit](https://namekit.com)
+- [Namekit](https://namekit.app)
 - [Namekit CLI](https://github.com/namekitapp/namekit)
