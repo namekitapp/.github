@@ -6,18 +6,17 @@ Namekit is an AI-powered domain name search engine that helps you discover thous
 
 ## ✨ Features
 
-### 🧠 AI-Powered Search
-Our intelligent algorithm understands your business needs and suggests relevant domain names that align with your brand and goals.
+- **🧠 AI‑Powered Ideas**  
+  Understands your niche, tone, and length preferences to surface creative names you’d never think of.
 
-### ⏱️ Real-Time Availability
-Instantly see which domains are available without the frustration of checking one by one. All results are verified and ready to register.
+- **♾️ Unlimited Results**  
+  We don’t cap or randomly hide options—scroll as deep as you like.
 
-### 💰 Baseline Pricing
-Find non-premium domains at standard registration prices, saving you money for your launch. No premium markups, no false positives.
+- **⏰ Live Availability Check**  
+  Queries the registries in real time, so every suggestion you see is ready to register *this second*.
 
-### 🔍 Smart Filtering
-Premium users get access to all results without random filtering, maximizing your options and finding the perfect name faster.
-
+- **💲 Standard‑Price Only**  
+  Filters out premium & aftermarket listings—no sticker shock when you register.
 ## 🔗 Links
 
 - [Namekit](https://namekit.app)
